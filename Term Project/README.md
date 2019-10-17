@@ -1,4 +1,4 @@
-# a4-s19
+# Interactive Music-Based Computer Graphics
 
 This was a three-person project in which we used JavaScript (WebGL) to implement several basic and advanced computer graphics techniques in order to create a "music video", in which objects were animated both manually and based on physics in order to interact with background audio.
 
